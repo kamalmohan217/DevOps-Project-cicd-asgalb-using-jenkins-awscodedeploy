@@ -1,0 +1,39 @@
+{
+  "variables": {
+  
+  },
+  "builders": [
+    {
+      "type": "amazon-ebs",
+      "region": "us-east-2",
+      "source_ami_filter": {
+        "filters": {
+          "virtualization-type": "hvm",
+          "name": "amzn2-ami-hvm-2.0.*.1-x86_64-ebs",
+          "root-device-type": "ebs"
+        },
+        "owners": [
+          "amazon"
+        ],
+        "most_recent": true
+      },
+      "instance_type": "t2.micro",
+      "ssh_username": "ec2-user",
+      "ami_name": "packer-tomcat-{{timestamp}}",
+	  "tags":{
+		"Name": "GoldenAMI-{{timestamp}}"
+	  }
+    }
+  ],
+  "provisioners": [
+    {
+      "type": "shell",
+      "inline": ["sudo amazon-linux-extras install -y ansible2"]
+    },
+    {
+      "type": "ansible-local",
+      "playbook_file": "playbook.yaml" ,
+      "pause_before": "120s"
+    }
+  ]
+}
