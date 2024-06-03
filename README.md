@@ -23,6 +23,7 @@ Create Application, Deployment Group and an IAM Policy which is required by Jenk
 <br><br/>
 **IAM POlicy**
 ![image](https://github.com/kamalmohan217/DevOps-Project-cicd-asgalb-using-jenkins-awscodedeploy/assets/128888356/768ec6d5-04fd-4ac2-bc1d-1074e70a1daa)
+Using this policy you can create a user or IAM Role and using this user/IAM Role you can authorize Jenkins to run the Deployment in AWS CodeDeploy.
 **Application for AWS CodeDeploy**
 ![image](https://github.com/kamalmohan217/DevOps-Project-cicd-asgalb-using-jenkins-awscodedeploy/assets/128888356/e1d9779f-f03c-4eeb-a56d-3ae0d9b9fb08)
 **Deployment Group for AWS CodeDeploy**
@@ -41,5 +42,14 @@ Create Application, Deployment Group and an IAM Policy which is required by Jenk
 ![image](https://github.com/kamalmohan217/DevOps-Project-cicd-asgalb-using-jenkins-awscodedeploy/assets/128888356/bff81593-66af-463d-a1b2-f5323415bc0f)
 ![image](https://github.com/kamalmohan217/DevOps-Project-cicd-asgalb-using-jenkins-awscodedeploy/assets/128888356/65d03478-ab78-4aed-accf-be4d2e56b2fb)
 <br><br/>
+Endpoint of MySQL RDS has been updated in the file login.jsp and userRegistration.jsp present at the path src/main/webapp/ of the GitHub repository as shown in the screenshot below
+![image](https://github.com/kamalmohan217/DevOps-Project-cicd-asgalb-using-jenkins-awscodedeploy/assets/128888356/109fd841-e54d-465f-bc92-cda8ede7b7de)
+![image](https://github.com/kamalmohan217/DevOps-Project-cicd-asgalb-using-jenkins-awscodedeploy/assets/128888356/54848216-3254-453c-85c0-398506a28b4c)
+<br><br/>
 After Successful execution of Jenkins Job Deployment will be started in AWS Code Deploy and which will be completed successfuly.
 ![image](https://github.com/kamalmohan217/DevOps-Project-cicd-asgalb-using-jenkins-awscodedeploy/assets/128888356/f652f25c-41f4-44aa-bf0f-1594907fe80b)
+<br><br/>
+Finally using the URL you can access the application as shown in the screenshot below.
+![image](https://github.com/kamalmohan217/DevOps-Project-cicd-asgalb-using-jenkins-awscodedeploy/assets/128888356/691cb76f-439c-4545-9c2f-166ad30e9c9d)
+![image](https://github.com/kamalmohan217/DevOps-Project-cicd-asgalb-using-jenkins-awscodedeploy/assets/128888356/dcef5a0d-2063-4df0-badc-18cc4b482630)
+![image](https://github.com/kamalmohan217/DevOps-Project-cicd-asgalb-using-jenkins-awscodedeploy/assets/128888356/4b0d9974-2e3c-4912-8c04-fcffb6acc0f7)
