@@ -40,3 +40,6 @@ Create Application, Deployment Group and an IAM Policy which is required by Jenk
 ![image](https://github.com/kamalmohan217/DevOps-Project-cicd-asgalb-using-jenkins-awscodedeploy/assets/128888356/cafc1dd1-485d-4984-be8e-2bfcbf53201c)
 ![image](https://github.com/kamalmohan217/DevOps-Project-cicd-asgalb-using-jenkins-awscodedeploy/assets/128888356/bff81593-66af-463d-a1b2-f5323415bc0f)
 ![image](https://github.com/kamalmohan217/DevOps-Project-cicd-asgalb-using-jenkins-awscodedeploy/assets/128888356/65d03478-ab78-4aed-accf-be4d2e56b2fb)
+<br><br/>
+After Successful execution of Jenkins Job Deployment will be started in AWS Code Deploy and which will be completed successfuly.
+![image](https://github.com/kamalmohan217/DevOps-Project-cicd-asgalb-using-jenkins-awscodedeploy/assets/128888356/f652f25c-41f4-44aa-bf0f-1594907fe80b)
