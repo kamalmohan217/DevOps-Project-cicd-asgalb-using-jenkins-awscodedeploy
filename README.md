@@ -37,4 +37,6 @@ Create Application, Deployment Group and an IAM Policy which is required by Jenk
 ![image](https://github.com/kamalmohan217/DevOps-Project-cicd-asgalb-using-jenkins-awscodedeploy/assets/128888356/2c013a92-e9b8-40ca-9211-5ca820e00fb1)
 ![image](https://github.com/kamalmohan217/DevOps-Project-cicd-asgalb-using-jenkins-awscodedeploy/assets/128888356/710b6269-7c09-4094-b8a6-e36b22303583)
 ![image](https://github.com/kamalmohan217/DevOps-Project-cicd-asgalb-using-jenkins-awscodedeploy/assets/128888356/ce9d6130-7cd6-4f24-bf3f-5c590d1fd95b)
+![image](https://github.com/kamalmohan217/DevOps-Project-cicd-asgalb-using-jenkins-awscodedeploy/assets/128888356/cafc1dd1-485d-4984-be8e-2bfcbf53201c)
+![image](https://github.com/kamalmohan217/DevOps-Project-cicd-asgalb-using-jenkins-awscodedeploy/assets/128888356/bff81593-66af-463d-a1b2-f5323415bc0f)
 ![image](https://github.com/kamalmohan217/DevOps-Project-cicd-asgalb-using-jenkins-awscodedeploy/assets/128888356/65d03478-ab78-4aed-accf-be4d2e56b2fb)
