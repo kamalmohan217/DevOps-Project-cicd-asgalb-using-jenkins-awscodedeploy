@@ -58,7 +58,7 @@ then
 			"Action": "s3:*",
 			"Resource": "arn:aws:s3:::mederma2024/*",
 			"Condition": {
-				"IpAddress": {"aws:SourceIp": "18.224.157.99/32"}
+				"IpAddress": {"aws:SourceIp": "18.XXX.XXX.99/32"}
 			} 
 		} 
 	]
