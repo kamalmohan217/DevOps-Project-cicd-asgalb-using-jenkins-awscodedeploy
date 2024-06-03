@@ -3,7 +3,7 @@
 <br><br/>
 End-to-end Architecture diagram is as shown in the screenshot attached above. For this demonstration source code is present in GitHub Repository and Jenkins uses this source code. CI/CD pipeline has been created using Jenkins Freestyle Job.
 <br><br/>
-There are four required plugins for Jenkins to achieved this as listed below.
+There are four required plugins for Jenkins to achieve this as listed below.
 ```
 1.	Environment Injector
 2.	SonarQube Scanner
