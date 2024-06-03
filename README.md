@@ -92,7 +92,7 @@ Finally using the URL you can access the application as shown in the screenshot 
 <br><br/>
 <br><br/>
 <br><br/>
-**Source Code:**- https://github.com/singhritesh85/aws-rds-java-using-codedeploy.git
+**Source Code:**- https://github.com/kamalmohan217/aws-rds-java-using-codedeploy.git
 <br><br/>
 For Monitoring and logging you can use NewRelic/Cloudwatch.
 <br><br/>
