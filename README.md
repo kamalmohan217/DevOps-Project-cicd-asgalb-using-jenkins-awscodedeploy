@@ -36,7 +36,7 @@ Using this policy you can create a user or IAM Role and using this user/IAM Role
 ![image](https://github.com/kamalmohan217/DevOps-Project-cicd-asgalb-using-jenkins-awscodedeploy/assets/128888356/803e8057-855e-4df5-833d-5c78189c6ee8)
 ![image](https://github.com/kamalmohan217/DevOps-Project-cicd-asgalb-using-jenkins-awscodedeploy/assets/128888356/a23646bb-2bcb-4525-b6a7-a3b409936996)
 <br><br/>
-The environment variable can be set using Environment Injector plusing during the Build Steps as shown in the screenshot below.
+The environment variable can be set using Environment Injector plugin during the Build Steps as shown in the screenshot below.
 <br><br/>
 ![image](https://github.com/kamalmohan217/DevOps-Project-cicd-asgalb-using-jenkins-awscodedeploy/assets/128888356/2c013a92-e9b8-40ca-9211-5ca820e00fb1)
 ![image](https://github.com/kamalmohan217/DevOps-Project-cicd-asgalb-using-jenkins-awscodedeploy/assets/128888356/710b6269-7c09-4094-b8a6-e36b22303583)
